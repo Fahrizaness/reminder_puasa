@@ -1,0 +1,506 @@
+{
+  "amalan_sunah_nabi": [
+    {
+      "no": 1,
+      "amalan": "Shalat Tahajud",
+      "keterangan": "Shalat malam setelah tidur sebentar"
+    },
+    {
+      "no": 2,
+      "amalan": "Shalat Dhuha",
+      "keterangan": "Shalat sunah di pagi hari"
+    },
+    {
+      "no": 3,
+      "amalan": "Shalat Rawatib",
+      "keterangan": "Shalat sunah sebelum/sesudah shalat fardhu"
+    },
+    {
+      "no": 4,
+      "amalan": "Shalat Witir",
+      "keterangan": "Shalat sunah penutup di malam hari"
+    },
+    {
+      "no": 5,
+      "amalan": "Puasa Senin-Kamis",
+      "keterangan": "Puasa sunah di hari Senin dan Kamis"
+    },
+    {
+      "no": 6,
+      "amalan": "Puasa Ayyamul Bidh",
+      "keterangan": "Puasa 3 hari setiap bulan (13,14,15 Hijriyah)"
+    },
+    {
+      "no": 7,
+      "amalan": "Puasa Daud",
+      "keterangan": "Puasa selang-seling (sehari puasa, sehari tidak)"
+    },
+    {
+      "no": 8,
+      "amalan": "Bersiwak",
+      "keterangan": "Membersihkan gigi dengan kayu siwak"
+    },
+    {
+      "no": 9,
+      "amalan": "Membaca Bismillah sebelum makan",
+      "keterangan": "Mengucap basmalah ketika hendak makan"
+    },
+    {
+      "no": 10,
+      "amalan": "Makan dengan tangan kanan",
+      "keterangan": "Menggunakan tangan kanan saat makan"
+    },
+    {
+      "no": 11,
+      "amalan": "Makan dari pinggir piring",
+      "keterangan": "Tidak mengambil makanan dari tengah piring"
+    },
+    {
+      "no": 12,
+      "amalan": "Minum dengan tiga nafas",
+      "keterangan": "Tidak minum sekaligus dalam satu tegukan"
+    },
+    {
+      "no": 13,
+      "amalan": "Berwudhu sebelum tidur",
+      "keterangan": "Membersihkan diri sebelum tidur"
+    },
+    {
+      "no": 14,
+      "amalan": "Tidur miring ke kanan",
+      "keterangan": "Posisi tidur menghadap sebelah kanan"
+    },
+    {
+      "no": 15,
+      "amalan": "Membaca doa sebelum tidur",
+      "keterangan": "Membaca ayat kursi dan doa tidur"
+    },
+    {
+      "no": 16,
+      "amalan": "Membaca doa bangun tidur",
+      "keterangan": "Bersyukur ketika bangun dari tidur"
+    },
+    {
+      "no": 17,
+      "amalan": "Membaca Al-Mu'awwidzat",
+      "keterangan": "Membaca surat Al-Ikhlas, Al-Falaq, An-Naas setiap pagi dan petang"
+    },
+    {
+      "no": 18,
+      "amalan": "Shalat Istikharah",
+      "keterangan": "Shalat memohon petunjuk ketika bimbang"
+    },
+    {
+      "no": 19,
+      "amalan": "Shalat Hajat",
+      "keterangan": "Shalat untuk memohon kebutuhan kepada Allah"
+    },
+    {
+      "no": 20,
+      "amalan": "Shalat Taubat",
+      "keterangan": "Shalat untuk memohon ampunan"
+    },
+    {
+      "no": 21,
+      "amalan": "Bersedekah",
+      "keterangan": "Memberi sebagian harta kepada yang membutuhkan"
+    },
+    {
+      "no": 22,
+      "amalan": "Silaturahmi",
+      "keterangan": "Menjalin hubungan baik dengan kerabat"
+    },
+    {
+      "no": 23,
+      "amalan": "Menjenguk orang sakit",
+      "keterangan": "Mengunjungi saudara yang sedang sakit"
+    },
+    {
+      "no": 24,
+      "amalan": "Mengantar jenazah",
+      "keterangan": "Mengiringi jenazah hingga pemakaman"
+    },
+    {
+      "no": 25,
+      "amalan": "Memulai dengan salam",
+      "keterangan": "Mengucap salam ketika bertemu muslim lain"
+    },
+    {
+      "no": 26,
+      "amalan": "Berjabat tangan",
+      "keterangan": "Bersalaman ketika bertemu"
+    },
+    {
+      "no": 27,
+      "amalan": "Memakai pakaian dari kanan",
+      "keterangan": "Mendahulukan sebelah kanan ketika berpakaian"
+    },
+    {
+      "no": 28,
+      "amalan": "Melepas pakaian dari kiri",
+      "keterangan": "Mendahulukan sebelah kiri ketika melepas pakaian"
+    },
+    {
+      "no": 29,
+      "amalan": "Memakai sepatu dari kanan",
+      "keterangan": "Mendahulukan kaki kanan ketika memakai sepatu"
+    },
+    {
+      "no": 30,
+      "amalan": "Melepas sepatu dari kiri",
+      "keterangan": "Mendahulukan kaki kiri ketika melepas sepatu"
+    },
+    {
+      "no": 31,
+      "amalan": "Berhias sebelum shalat Jumat",
+      "keterangan": "Memakai pakaian terbaik dan wangi-wangian"
+    },
+    {
+      "no": 32,
+      "amalan": "Shalat sunah sebelum Jumat",
+      "keterangan": "Melakukan shalat sunah di masjid sebelum khutbah"
+    },
+    {
+      "no": 33,
+      "amalan": "Membaca surat Al-Kahfi di hari Jumat",
+      "keterangan": "Membaca surat Al-Kahfi setiap hari Jumat"
+    },
+    {
+      "no": 34,
+      "amalan": "Memperbanyak shalawat di hari Jumat",
+      "keterangan": "Memperbanyak bacaan shalawat Nabi"
+    },
+    {
+      "no": 35,
+      "amalan": "Berdoa di waktu mustajab hari Jumat",
+      "keterangan": "Berdoa di antara waktu ashar hingga maghrib"
+    },
+    {
+      "no": 36,
+      "amalan": "Memperbanyak dzikir pagi dan petang",
+      "keterangan": "Membaca dzikir yang diajarkan Nabi"
+    },
+    {
+      "no": 37,
+      "amalan": "Membaca doa masuk kamar mandi",
+      "keterangan": "Memohon perlindungan saat masuk WC"
+    },
+    {
+      "no": 38,
+      "amalan": "Membaca doa keluar kamar mandi",
+      "keterangan": "Bersyukur setelah keluar dari WC"
+    },
+    {
+      "no": 39,
+      "amalan": "Membaca doa masuk masjid",
+      "keterangan": "Memohon rahmat ketika masuk masjid"
+    },
+    {
+      "no": 40,
+      "amalan": "Membaca doa keluar masjid",
+      "keterangan": "Memohon karunia ketika keluar masjid"
+    },
+    {
+      "no": 41,
+      "amalan": "Membaca doa naik kendaraan",
+      "keterangan": "Memohon keselamatan dalam perjalanan"
+    },
+    {
+      "no": 42,
+      "amalan": "Membaca doa bepergian",
+      "keterangan": "Memohon perlindungan saat safar"
+    },
+    {
+      "no": 43,
+      "amalan": "Membaca doa masuk pasar",
+      "keterangan": "Memohon perlindungan dari godaan pasar"
+    },
+    {
+      "no": 44,
+      "amalan": "Membaca doa ketika marah",
+      "keterangan": "Memohon perlindungan dari godaan setan"
+    },
+    {
+      "no": 45,
+      "amalan": "Membaca doa melihat cermin",
+      "keterangan": "Memuji Allah atas penciptaan yang indah"
+    },
+    {
+      "no": 46,
+      "amalan": "Membaca doa memakai pakaian",
+      "keterangan": "Memohon perlindungan dari pakaian yang buruk"
+    },
+    {
+      "no": 47,
+      "amalan": "Membaca doa melepas pakaian",
+      "keterangan": "Bersyukur kepada Allah atas nikmat pakaian"
+    },
+    {
+      "no": 48,
+      "amalan": "Membaca doa masuk rumah",
+      "keterangan": "Memohon berkah ketika memasuki rumah"
+    },
+    {
+      "no": 49,
+      "amalan": "Membaca doa keluar rumah",
+      "keterangan": "Memohon perlindungan ketika keluar rumah"
+    },
+    {
+      "no": 50,
+      "amalan": "Membaca doa ketika hujan",
+      "keterangan": "Memohon hujan yang bermanfaat"
+    },
+    {
+      "no": 51,
+      "amalan": "Membaca doa setelah hujan",
+      "keterangan": "Bersyukur atas hujan yang turun"
+    },
+    {
+      "no": 52,
+      "amalan": "Membaca doa ketika mendengar petir",
+      "keterangan": "Memohon perlindungan dari petir"
+    },
+    {
+      "no": 53,
+      "amalan": "Membaca doa ketika angin kencang",
+      "keterangan": "Memohon kebaikan dari angin"
+    },
+    {
+      "no": 54,
+      "amalan": "Membaca doa melihat bulan",
+      "keterangan": "Memuji Allah atas penciptaan bulan"
+    },
+    {
+      "no": 55,
+      "amalan": "Membaca doa melihat cermin",
+      "keterangan": "Memuji Allah atas penciptaan yang indah"
+    },
+    {
+      "no": 56,
+      "amalan": "Membaca doa ketika bersin",
+      "keterangan": "Memuji Allah setelah bersin"
+    },
+    {
+      "no": 57,
+      "amalan": "Membaca doa ketika mendengar orang bersin",
+      "keterangan": "Mendoakan orang yang bersin"
+    },
+    {
+      "no": 58,
+      "amalan": "Membaca doa ketika mimpi baik",
+      "keterangan": "Bersyukur atas mimpi yang baik"
+    },
+    {
+      "no": 59,
+      "amalan": "Membaca doa ketika mimpi buruk",
+      "keterangan": "Memohon perlindungan dari mimpi buruk"
+    },
+    {
+      "no": 60,
+      "amalan": "Membaca doa ketika sedih",
+      "keterangan": "Memohon ketenangan hati"
+    },
+    {
+      "no": 61,
+      "amalan": "Membaca doa ketika gundah",
+      "keterangan": "Memohon ketentraman jiwa"
+    },
+    {
+      "no": 62,
+      "amalan": "Membaca doa ketika takut",
+      "keterangan": "Memohon perlindungan dari ketakutan"
+    },
+    {
+      "no": 63,
+      "amalan": "Membaca doa ketika sakit",
+      "keterangan": "Memohon kesembuhan dari Allah"
+    },
+    {
+      "no": 64,
+      "amalan": "Membaca doa menjenguk orang sakit",
+      "keterangan": "Mendoakan kesembuhan orang sakit"
+    },
+    {
+      "no": 65,
+      "amalan": "Membaca doa ketika melihat orang tertimpa musibah",
+      "keterangan": "Memuji Allah atas ujian yang diberikan"
+    },
+    {
+      "no": 66,
+      "amalan": "Membaca doa ketika bercermin",
+      "keterangan": "Memohon penampilan yang baik"
+    },
+    {
+      "no": 67,
+      "amalan": "Membaca doa ketika masuk desa/kota",
+      "keterangan": "Memohon berkah tempat yang dimasuki"
+    },
+    {
+      "no": 68,
+      "amalan": "Membaca doa ketika keluar desa/kota",
+      "keterangan": "Memohon diterima amal di tempat yang ditinggalkan"
+    },
+    {
+      "no": 69,
+      "amalan": "Membaca doa ketika masuk pasar",
+      "keterangan": "Memohon perlindungan dari godaan pasar"
+    },
+    {
+      "no": 70,
+      "amalan": "Membaca doa ketika melihat orang berbuat maksiat",
+      "keterangan": "Memohon hidayah untuk mereka"
+    },
+    {
+      "no": 71,
+      "amalan": "Membaca doa ketika melihat orang berbuat baik",
+      "keterangan": "Memuji Allah atas kebaikan yang dilihat"
+    },
+    {
+      "no": 72,
+      "amalan": "Membaca doa ketika melihat bulan sabit",
+      "keterangan": "Memohon berkah bulan baru"
+    },
+    {
+      "no": 73,
+      "amalan": "Membaca doa ketika melihat anak kecil",
+      "keterangan": "Mendoakan kebaikan untuk anak kecil"
+    },
+    {
+      "no": 74,
+      "amalan": "Membaca doa ketika melihat orang yang dicintai",
+      "keterangan": "Memuji Allah atas pertemuan tersebut"
+    },
+    {
+      "no": 75,
+      "amalan": "Membaca doa ketika melihat orang yang tidak disukai",
+      "keterangan": "Memohon kesabaran menghadapinya"
+    },
+    {
+      "no": 76,
+      "amalan": "Membaca doa ketika melihat sesuatu yang mengagumkan",
+      "keterangan": "Memuji Allah atas ciptaan-Nya"
+    },
+    {
+      "no": 77,
+      "amalan": "Membaca doa ketika melihat sesuatu yang menakutkan",
+      "keterangan": "Memohon perlindungan dari keburukan"
+    },
+    {
+      "no": 78,
+      "amalan": "Membaca doa ketika melihat orang miskin",
+      "keterangan": "Memohon kecukupan untuk mereka"
+    },
+    {
+      "no": 79,
+      "amalan": "Membaca doa ketika melihat orang kaya",
+      "keterangan": "Memohon keberkahan harta mereka"
+    },
+    {
+      "no": 80,
+      "amalan": "Membaca doa ketika melihat orang bersedih",
+      "keterangan": "Memohon kesabaran untuk mereka"
+    },
+    {
+      "no": 81,
+      "amalan": "Membaca doa ketika melihat orang gembira",
+      "keterangan": "Bersyukur atas kebahagiaan mereka"
+    },
+    {
+      "no": 82,
+      "amalan": "Membaca doa ketika melihat binatang",
+      "keterangan": "Memuji Allah atas penciptaan binatang"
+    },
+    {
+      "no": 83,
+      "amalan": "Membaca doa ketika melihat tumbuhan",
+      "keterangan": "Memuji Allah atas penciptaan tumbuhan"
+    },
+    {
+      "no": 84,
+      "amalan": "Membaca doa ketika melihat lautan",
+      "keterangan": "Memuji Allah atas penciptaan lautan"
+    },
+    {
+      "no": 85,
+      "amalan": "Membaca doa ketika melihat gunung",
+      "keterangan": "Memuji Allah atas penciptaan gunung"
+    },
+    {
+      "no": 86,
+      "amalan": "Membaca doa ketika melihat matahari terbit",
+      "keterangan": "Memuji Allah atas nikmat pagi"
+    },
+    {
+      "no": 87,
+      "amalan": "Membaca doa ketika melihat matahari terbenam",
+      "keterangan": "Memuji Allah atas nikmat petang"
+    },
+    {
+      "no": 88,
+      "amalan": "Membaca doa ketika melihat bintang",
+      "keterangan": "Memuji Allah atas penciptaan bintang"
+    },
+    {
+      "no": 89,
+      "amalan": "Membaca doa ketika melihat awan",
+      "keterangan": "Memuji Allah atas penciptaan awan"
+    },
+    {
+      "no": 90,
+      "amalan": "Membaca doa ketika melihat pelangi",
+      "keterangan": "Memuji Allah atas keindahan ciptaan-Nya"
+    },
+    {
+      "no": 91,
+      "amalan": "Membaca doa ketika melihat kilat",
+      "keterangan": "Memohon perlindungan dari kilat"
+    },
+    {
+      "no": 92,
+      "amalan": "Membaca doa ketika melihat gempa",
+      "keterangan": "Memohon perlindungan dari bencana"
+    },
+    {
+      "no": 93,
+      "amalan": "Membaca doa ketika melihat banjir",
+      "keterangan": "Memohon perlindungan dari banjir"
+    },
+    {
+      "no": 94,
+      "amalan": "Membaca doa ketika melihat kebakaran",
+      "keterangan": "Memohon perlindungan dari api"
+    },
+    {
+      "no": 95,
+      "amalan": "Membaca doa ketika melihat peperangan",
+      "keterangan": "Memohon perdamaian"
+    },
+    {
+      "no": 96,
+      "amalan": "Membaca doa ketika melihat kemiskinan",
+      "keterangan": "Memohon kecukupan untuk umat"
+    },
+    {
+      "no": 97,
+      "amalan": "Membaca doa ketika melihat kekayaan",
+      "keterangan": "Memohon keberkahan harta"
+    },
+    {
+      "no": 98,
+      "amalan": "Membaca doa ketika melihat ilmu",
+      "keterangan": "Memohon manfaat dari ilmu"
+    },
+    {
+      "no": 99,
+      "amalan": "Membaca doa ketika melihat kebodohan",
+      "keterangan": "Memohon perlindungan dari kebodohan"
+    },
+    {
+      "no": 100,
+      "amalan": "Membaca doa kafaratul majelis",
+      "keterangan": "Membaca doa penutup majelis ilmu"
+    }
+  ],
+  "sumber": "Berdasarkan hadis-hadis shahih dari Nabi Muhammad ﷺ",
+  "catatan": "Daftar ini hanya mencakup sebagian kecil dari sunah-sunah Nabi. Masih banyak amalan sunah lainnya yang bisa diamalkan oleh seorang muslim."
+}
