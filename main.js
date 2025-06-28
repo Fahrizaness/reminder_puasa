@@ -8,9 +8,6 @@ const amalanList = data.amalan_sunah_nabi;
 
 const bot = new TelegramBot(process.env.BOT_TOKEN);
 
-// ==========================
-// PENGINGAT PUASA SENIN
-// ==========================
 
 // Minggu 20:00 → Ingatkan niat puasa Senin
 cron.schedule('0 20 * * 0', () => {
